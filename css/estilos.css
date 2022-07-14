@@ -1,7 +1,7 @@
 body
 {
-    color: rgba(29, 232, 83, 0.797);
-    background-color: rgba(0, 0, 0, 0.75);
+    color: rgba(0, 0, 0, 0.58);
+  
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -9,10 +9,30 @@ body
     padding: 0;
 }
 
-h1 
+#cabecera
 {
-    color: rgb(255, 248, 248);
-    -webkit-text-stroke : .5px rgb(222, 14, 149);
+    background: rgba(21, 21, 223, 0.412);
+    box-shadow: 0px 2px 30px 5px rgba(142, 140, 156, 0.679);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin:0;
+    padding: 0.5em;
+    -webkit-text-stroke : .1px rgba(5, 7, 6, 0.797);
+
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+    h1 
+{
+    color:rgba(21, 21, 223, 0.761);
+    -webkit-text-stroke : .1px rgb(0, 0, 0);
     font-size:20px;
     
 }
@@ -20,9 +40,19 @@ h1
 
 
 #container
-    {width:70%;
-    padding:1em;
-    text-align:left;
-    border:1px solid #ddd;
-    margin:0 auto}
+    {
+        box-shadow: 0px 2px 50px 5px rgb(29, 217, 198);
+        background-color:rgb(27, 227, 207);;
+        width:70%;
+        padding:1em;
+        text-align:left;
+        border:1px solid rgba(221, 221, 221, 0.245);
+        margin:0 auto;
+        
+        
+    }
 
+    #post
+    {
+        padding: 1em;
+    }
