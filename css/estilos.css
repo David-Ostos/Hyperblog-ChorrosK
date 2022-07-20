@@ -61,15 +61,18 @@ body
         padding:0em;
         margin:auto;
     }
-
-    #suscribete
-    {
-        color: #b4292c;
-    }
-
+    
     #post
     {
         background: #fff;
         padding: 1em;
-       
+    }
+
+    #suscribete
+    {
+        color: #b4292c;
+        background: #b4292b60;
+        text-align: center;
+        padding: 0.5em;
+        
     }
