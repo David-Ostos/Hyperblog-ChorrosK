@@ -1,8 +1,10 @@
 body
 {
-    color: rgb(235, 235, 235);
-  
-    text-align: center;
+    background: url(../Imagenes/fondo.png);
+    background-size:cover;
+
+    color: rgb(255, 255, 255);
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
@@ -11,14 +13,20 @@ body
 
 #cabecera
 {
-    background: rgba(21, 21, 223, 0.412);
-    box-shadow: 0px 2px 30px 5px rgba(142, 140, 156, 0.679);
+    background: #b4292b60 ;
+    box-shadow: 0px 2px 30px 5px #b4292b60 ;
     color: rgb(255, 255, 255);
-    font-weight: bold;
-    margin:0;
-    padding: 0.5em;
+    font-weight:bold;
+    margin:0em;
+    padding: 0.5em ;
     -webkit-text-stroke : .1px rgba(5, 7, 6, 0.797);
+    text-align: left;
+}
 
+#cabecera #logo 
+{
+    width: 20px; 
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -31,28 +39,37 @@ body
 #container
     h1 
 {
-    color:rgba(21, 21, 223, 0.761);
-    -webkit-text-stroke : .1px rgb(0, 0, 0);
+    color:#ffffffc5;
+    -webkit-text-stroke : .5px rgba(234, 2, 2, 0.341);
     font-size:20px;
-    
+    text-align: left;
+    margin: center;
+    padding: 1em;
 }
 
-
+#container
+    p 
+    {
+        margin: 1em;
+    }
 
 #container
     {
-        box-shadow: 0px 2px 50px 5px rgb(29, 217, 198);
-        background-color:rgb(27, 227, 207);;
+        box-shadow: 0px 2px 50px 5px #b4292b60 ; 
+        background-color:rgba(28, 2, 2, 0.549);;
         width:70%;
-        padding:1em;
-        text-align:left;
-        border:1px solid rgba(221, 221, 221, 0.245);
-        margin:0 auto;
-        
-        
+        padding:0em;
+        margin:auto;
+    }
+
+    #suscribete
+    {
+        color: #b4292c;
     }
 
     #post
     {
+        background: #fff;
         padding: 1em;
+       
     }
