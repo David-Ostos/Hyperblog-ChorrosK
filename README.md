@@ -1,4 +1,4 @@
-#  💚Hyperblog-ChorrosK 💚
+#  💚 Hyperblog 💚
 Un sueper blog multiversal. para el [curso de Git y GitHub](curso de Git y GitHub de Platzi "curso de Git y GitHub") de [Platzi](http://platzi.com "Platzi")
 > El curso de Platzi de Git y GitHub es lo que me hacia falta para poder incrementar mis cualidades a la hora de encontrar un trabajo en el campo de la tecnologia 
 
