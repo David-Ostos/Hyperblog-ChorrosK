@@ -9,8 +9,9 @@ Un sueper blog multiversal. para el [Curso de Git y GitHub](https://platzi.com/c
 * El flujo de trabajo en GitHub.
 * El verdadero amor por las buenas practicas.
 * Trucos muy locos.
-* Las personalidades multiples de Freddy 
-* Creado por davisito 
-* Incluye ejemplos en windos linux y mac 
+* Las personalidades multiples de Freddy .
+* Creado por davisito. 
+* Incluye ejemplos en windows linux y mac.
+* Disponible para todo publico.
 
 Y como un amable recordatorio: **ESTE readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [a ver el curso](https://platzi.com/cursos/git-github/ "a ver el curso")
